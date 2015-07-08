@@ -1,0 +1,4 @@
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\bin\Debug\ABD_UPIICSA.exe
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\bin\Debug\ABD_UPIICSA.pdb
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\ABD_UPIICSA.exe
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\ABD_UPIICSA.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_generico", "CRUD_generico\CRUD_generico.csproj", "{A49884FC-D14D-488A-B979-3AEC1F4442BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abd_upiicsa", "CRUD_generico\abd_upiicsa.csproj", "{A49884FC-D14D-488A-B979-3AEC1F4442BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

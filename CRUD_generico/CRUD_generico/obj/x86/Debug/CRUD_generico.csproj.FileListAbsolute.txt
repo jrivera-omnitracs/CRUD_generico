@@ -1,0 +1,5 @@
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\bin\Debug\CRUD_generico.exe
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\bin\Debug\CRUD_generico.pdb
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\CRUD_generico.exe
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\CRUD_generico.pdb
+C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\CRUD_generico.csprojResolveAssemblyReference.cache
