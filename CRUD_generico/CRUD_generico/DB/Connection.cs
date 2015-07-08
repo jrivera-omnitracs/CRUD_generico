@@ -10,12 +10,12 @@ namespace CRUD_generico.DB
     {
         public static SqlConnection GetDBConnection()
         { 
-            SqlConnection conn = new SqlConnection(@"Data Source=127.0.0.1;Initial Catalog=abd_upiicsa;User ID=supervisor;Password=sqlServer1");
+            SqlConnection conn = new SqlConnection(Contract.DB_CONN_STRING);
 
             try
             {
                 conn.Open();
-                Console.WriteLine("Connected");
+                //Console.WriteLine("Connected");
             }
             catch (SqlException e)
             {
@@ -24,7 +24,7 @@ namespace CRUD_generico.DB
             }
             finally
             {
-                Console.WriteLine("You're connected..");
+                //Console.WriteLine("You're connected..");
             }
             return conn;
         }

@@ -2,3 +2,8 @@ C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_
 C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\bin\Debug\ABD_UPIICSA.pdb
 C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\ABD_UPIICSA.exe
 C:\Users\Portatil en Stock 23\Documents\GitHub\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\ABD_UPIICSA.pdb
+C:\Users\ligorioedwin\Documents\Visual Studio 2013\Projects\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\ABD_UPIICSA.exe
+C:\Users\ligorioedwin\Documents\Visual Studio 2013\Projects\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\ABD_UPIICSA.pdb
+C:\Users\ligorioedwin\Documents\Visual Studio 2013\Projects\CRUD_generico\CRUD_generico\CRUD_generico\bin\Debug\ABD_UPIICSA.exe
+C:\Users\ligorioedwin\Documents\Visual Studio 2013\Projects\CRUD_generico\CRUD_generico\CRUD_generico\bin\Debug\ABD_UPIICSA.pdb
+C:\Users\ligorioedwin\Documents\Visual Studio 2013\Projects\CRUD_generico\CRUD_generico\CRUD_generico\obj\x86\Debug\abd_upiicsa.csprojResolveAssemblyReference.cache

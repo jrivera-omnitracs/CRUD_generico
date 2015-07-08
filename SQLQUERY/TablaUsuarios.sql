@@ -1,5 +1,12 @@
 ------------------------------------------------------
---------- SE CREA LA BASE DE TABLA DE USUARIOS -------
+--------- SE CREA LA BASE DE DATOS				------
+------------------------------------------------------
+CREATE DATABASE db_gmodelo
+GO
+USE db_gmodelo
+GO
+------------------------------------------------------
+--------- SE CREA LA TABLA DE USUARIOS 			------
 ------------------------------------------------------
 CREATE TABLE usuarios(
 		  id int IDENTITY(1,1) primary key

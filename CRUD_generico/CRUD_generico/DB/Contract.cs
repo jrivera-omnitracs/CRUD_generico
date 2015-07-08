@@ -7,7 +7,10 @@ namespace CRUD_generico.DB
 {
     class Contract
     {
-        public static readonly string DB_NAME = "adb_upiicsa";
+        public static readonly string DB_NAME = "db_gmodelo";
+        public static readonly string DB_USER = "abdupiicsa";
+        public static readonly string DB_PASS = "base";
+        public static readonly string DB_CONN_STRING = @"Data Source=EDWIN-PC\SQLEXPRESS;Initial Catalog=" + DB_NAME + ";User ID=" + DB_USER + ";Password=" + DB_PASS + "";
 
         public static class Usuarios
         {

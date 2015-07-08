@@ -43,7 +43,6 @@ namespace CRUD_generico.DB
                     myDataSet.Clear();
                     myDataAdapter.Fill(myDataSet, "usuarios");
                     conn.Close();
-                    return myDataSet;
                 }
                 catch (Exception ex)
                 {
